@@ -2,8 +2,7 @@
 
 > Một ứng dụng quản lý công việc tối ưu hiệu năng, được xây dựng bằng ReactJS với trọng tâm là trải nghiệm người dùng (UX) thông qua kỹ thuật **Optimistic UI**.
 
-🔴 **Live Demo:** [https://todo-app-react.vercel.app](https://todo-app-react.vercel.app) *(Thay link Vercel của bạn vào đây)*
-
+🔴 **Live Demo:** [https://todo-app-react.vercel.app]([https://todo-app-react.vercel.app](https://todo-app-react-three-blush.vercel.app/)) 
 ## 💡 Về dự án này
 
 Dự án này ban đầu được phát triển bằng Vanilla JavaScript (DOM thuần) và localStorage. Tuy nhiên, để đáp ứng tư duy quản lý State hiện đại và kiến trúc Client-Server, hệ thống đã được **refactor hoàn toàn sang ReactJS** và kết nối với RESTful API.
@@ -24,10 +23,4 @@ Dự án này ban đầu được phát triển bằng Vanilla JavaScript (DOM t
 - **Backend/Database:** MockAPI (RESTful)
 - **Deployment & CI/CD:** Vercel
 
-## ⚙️ Cài đặt chạy thử tại Local
 
-Nếu bạn muốn clone dự án này về máy và chạy thử, hãy làm theo các bước sau:
-
-1. Clone repository này về máy:
-   ```bash
-   git clone [https://github.com/datnguyen154/todo-app-react.git](https://github.com/datnguyen154/todo-app-react.git)
