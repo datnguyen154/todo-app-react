@@ -2,7 +2,7 @@
 
 > Một ứng dụng quản lý công việc tối ưu hiệu năng, được xây dựng bằng ReactJS với trọng tâm là trải nghiệm người dùng (UX) thông qua kỹ thuật **Optimistic UI**.
 
-🔴 **Live Demo:** [https://todo-app-react.vercel.app]([https://todo-app-react.vercel.app](https://todo-app-react-three-blush.vercel.app/)) 
+🔴 **Live Demo:** [https://todo-app-react.vercel.app](https://todo-app-react-three-blush.vercel.app/)
 ## 💡 Về dự án này
 
 Dự án này ban đầu được phát triển bằng Vanilla JavaScript (DOM thuần) và localStorage. Tuy nhiên, để đáp ứng tư duy quản lý State hiện đại và kiến trúc Client-Server, hệ thống đã được **refactor hoàn toàn sang ReactJS** và kết nối với RESTful API.
